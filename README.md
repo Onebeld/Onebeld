@@ -15,9 +15,7 @@
 - I have been programming for over 5 years.
 
 ## Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,rust,java,postgres,idea)](https://skillicons.dev)
 
 ## My stats
 
