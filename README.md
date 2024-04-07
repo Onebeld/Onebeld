@@ -19,11 +19,22 @@
 
 ## My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Onebeld&theme=dark&border_radius=8)](https://git.io/streak-stats)
-&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onebeld&show_icons=true&theme=dark)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://streak-stats.demolab.com?user=Onebeld&theme=dark&border_radius=8" height="220" alt="streak graph" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onebeld&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=onebeld&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onebeld&theme=dark&layout=compact" />
+  </a>
+</div>
 
 <!--
 **Onebeld/Onebeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
