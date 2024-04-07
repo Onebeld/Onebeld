@@ -1,4 +1,5 @@
-![OnebeldBanner](https://github.com/Onebeld/Regul/assets/44552715/1b226c68-9f5d-4553-8819-643a5051ff60)
+![OnebeldBanner](https://github.com/Onebeld/Onebeld/assets/44552715/69f8a7c5-c221-45ef-8efb-2ce0e6cfea2c)
+
 
 <div id="badges" align="center">
   <a href="https://patreon.com/Onebeld"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOnebeld%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
@@ -21,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://streak-stats.demolab.com?user=Onebeld&theme=dark&border_radius=8" height="220" alt="streak graph" />
+    <img height="250" align="center" src="https://streak-stats.demolab.com?user=Onebeld&theme=dark&border_radius=8" height="220" alt="streak graph" />
   </a>
 </div>
 
@@ -29,10 +30,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=onebeld&show_icons=true&theme=dark" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=onebeld&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onebeld&theme=dark&layout=compact" />
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onebeld&theme=dark&layout=compact" />
   </a>
 </div>
 
