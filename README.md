@@ -1,6 +1,5 @@
 ![OnebeldBanner](https://github.com/Onebeld/Onebeld/assets/44552715/69f8a7c5-c221-45ef-8efb-2ce0e6cfea2c)
 
-
 <div id="badges" align="center">
   <a href="https://patreon.com/Onebeld"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOnebeld%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
 </div>
@@ -9,16 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=onebeld&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
-## About me
-- I am a developer of various software applications;
-- Ready for new technologies;
-- I try to write in several languages;
-- I have been programming for over 5 years.
+## 👦 About me
+My name is **_Dmitry Zhutkov_**, and I am an independent programmer. I started my way with website development, and then went on to create various applications (starting with _Electron_ framework and ending with _[AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)_). I was interested in this direction as I enjoyed creating something from scratch and seeing what happens.
 
-## Languages and tools
+<sub><sup>I love The Sims series, particularly the Angela Pleasant sim :)</sup></sub>
+
+### Facts
+- I have experience in programming for more than **5 years**;
+- Adapt quickly to any technology;
+- Trying to write in other programming languages.
+
+## 🔧 Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,rust,java,postgres,idea)](https://skillicons.dev)
 
-## My stats
+## 📈 My stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
