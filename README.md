@@ -1,4 +1,4 @@
-![OnebeldBanner](https://github.com/user-attachments/assets/3f04733a-d192-496e-9754-f3b535821b95)
+![OnebeldBanner](https://github.com/user-attachments/assets/764fcd23-0458-41f9-a621-7147b612c820)
 
 <div id="badges" align="center">
   <a href="https://patreon.com/Onebeld"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOnebeld%26type%3Dpatrons&style=for-the-badge" alt="Support me on Patreon" /></a>
